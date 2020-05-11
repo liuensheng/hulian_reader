@@ -7,7 +7,8 @@ var archiver = require('archiver'); // archiver可用于普通的打包压缩
 var AdmZip = require('adm-zip');  //用于读取未解压的zip包
 
 export class OfdFileReader {
-    filePath: string = "";
+    _filePath: string = "";
+    _zip = null;
 
     constructor() {
 
@@ -27,8 +28,14 @@ export class OfdFileReader {
     }
 
     loadOfdFile(path: string): boolean {
-        var zip = new AdmZip(path);
-        var zipEntries = zip.getEntries();
+        this._filePath = path;
+        this._zip = new AdmZip(path);
+
+        if (null == this._zip) {
+            return false;
+        }
+
+        var zipEntries = this._zip.getEntries();
 
         const loadFileProcess = new Promise(function (resolve, reject) {
             zipEntries.forEach((item: { isDirectory: boolean; name: any; }) => {

@@ -43,12 +43,15 @@ router.get('/', function (req, res, next) {
     hello.then(
       function (value) {
         console.log(value);
-        res.render('index', { title: '读文件测试', note: rrrrr });
       },
       function (err) {
         console.log(err)
       }
     );
+
+    var data = zip.readAsText('OFD.xml','utf8');
+
+    console.log(data);
   });
 });
 
