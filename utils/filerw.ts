@@ -26,25 +26,31 @@ export class OfdFileReader {
         return new RegExp(pattern, 'i').test(filename);
     }
 
-    loadOfdFile(path: string): void {
+    loadOfdFile(path: string): boolean {
         var zip = new AdmZip(path);
         var zipEntries = zip.getEntries();
 
-        const hello = new Promise(function (resolve, reject) {
+        const loadFileProcess = new Promise(function (resolve, reject) {
             zipEntries.forEach((item: { isDirectory: boolean; name: any; }) => {
                 if (item.isDirectory == false) {
                     if (this.isFileType(item.name, 'xml')) {
                     }
-
-                    // res.render('index', { title: '读文件测试', note: zipEntries });
-                    // this.text = item.getData().toString();
                 }
-
-                // console.log("ltes " + rrrrr);
-                // while (true) {};
             })
             resolve("success");
         });
+
+        loadFileProcess.then(
+            function (value) {
+                console.log(value);
+            },
+            function (err) {
+                console.log(err);
+                return false;
+            }
+        );
+
+        return true;
     }
 }
 
