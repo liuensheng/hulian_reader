@@ -6,7 +6,7 @@ var fs = require("fs")
 var archiver = require('archiver'); // archiver可用于普通的打包压缩
 var AdmZip = require('adm-zip');  //用于读取未解压的zip包
 
-import * as Const from '../core/const'
+import * as Const from '../core/Const'
 
 export class OfdFileReader {
     _filePath: string = "";
