@@ -10,7 +10,7 @@ import org.ofdrw.core.pageDescription.color.color.CT_Color;
  * <p>
  * 默认为黑色
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-27 03:36:42
  */
 public class BorderColor extends CT_Color {

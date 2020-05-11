@@ -22,7 +22,7 @@ import java.util.stream.Collectors;
  * 元素节点应使用命名空间标识符，元素属性不使用命名空间标识符。
  * ————《GB/T 33190-2016》 7.1 命名空间
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-09-28 12:05:55
  */
 public class OFDElement extends DefaultElementProxy {

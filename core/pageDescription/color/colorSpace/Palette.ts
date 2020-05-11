@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
  * <p>
  * 调色板中颜色的索引编号从 0 开始
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-11 08:30:07
  */
 public class Palette extends OFDElement {

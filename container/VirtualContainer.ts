@@ -20,7 +20,7 @@ import java.util.function.Function;
 /**
  * 虚拟容器对象
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2020-04-02 19:01:04
  */
 public class VirtualContainer implements Closeable {

@@ -16,7 +16,7 @@ import java.util.List;
  * <p>
  * 13 图 72 表 50
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-27 04:56:42
  */
 public class CT_VectorG extends OFDElement {

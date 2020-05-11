@@ -3,7 +3,7 @@ package org.ofdrw.reader;
 /**
  * 错误OFD文件结构和文档格式异常
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2020-04-17 03:29:28
  */
 public class BadOFDException extends RuntimeException {

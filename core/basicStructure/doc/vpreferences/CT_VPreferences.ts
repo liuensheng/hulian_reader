@@ -14,7 +14,7 @@ import org.ofdrw.core.basicStructure.doc.vpreferences.zoom.ZoomScale;
  * <p>
  * 7.5 图 10 视图首选项结构
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-07 05:55:03
  */
 public class CT_VPreferences extends OFDElement {

@@ -11,7 +11,7 @@ import java.util.List;
  * <p>
  * 图 19 大纲节点结构
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 11:32:31
  */
 public class Actions extends OFDElement {

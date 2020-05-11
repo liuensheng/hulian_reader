@@ -8,7 +8,7 @@ import org.ofdrw.core.basicType.ST_Pos;
  * <p>
  * 用于表示到新的绘制点指令
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 12:44:18
  */
 public class Move extends Command {

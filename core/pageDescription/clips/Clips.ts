@@ -16,7 +16,7 @@ import java.util.List;
  * <p>
  * 8.5 图元对象 图 45 表 34
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-14 08:00:02
  */
 public class Clips extends OFDElement {

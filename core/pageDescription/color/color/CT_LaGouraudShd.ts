@@ -13,7 +13,7 @@ import org.ofdrw.core.OFDElement;
  * <p>
  * 8.3.4.5 图 43 表 32
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-09 12:54:50
  */
 public class CT_LaGouraudShd extends CT_GouraudShd {

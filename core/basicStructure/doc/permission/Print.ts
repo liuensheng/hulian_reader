@@ -11,7 +11,7 @@ import org.ofdrw.core.OFDElement;
  * <p>
  * 7.5 图 9 文档权限声明结构
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-07 05:07:02
  */
 public class Print extends OFDElement {

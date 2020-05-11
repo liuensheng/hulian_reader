@@ -5,7 +5,7 @@ package org.ofdrw.core.action.actionType.actionMovie;
  * <p>
  * 表 59 放映参数属性
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-06 05:56:41
  */
 public enum PlayType {

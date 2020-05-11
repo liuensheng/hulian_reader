@@ -9,7 +9,7 @@ package org.ofdrw.core.pageDescription.drawParam;
  *
  * 默认值为 Butt
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-11 07:34:59
  */
 public enum LineCapType {

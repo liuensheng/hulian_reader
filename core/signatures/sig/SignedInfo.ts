@@ -14,7 +14,7 @@ import java.util.List;
  * <p>
  * 18.2.1 文件摘要 图 86 表 67
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-20 07:23:38
  */
 public class SignedInfo extends OFDElement {

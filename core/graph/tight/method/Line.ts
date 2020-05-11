@@ -8,7 +8,7 @@ import org.ofdrw.core.basicType.ST_Pos;
  * <p>
  * 图 51 线段结构
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 05:14:27
  */
 public class Line extends Command {

@@ -12,7 +12,7 @@ import java.util.List;
  * <p>
  * 表 4 文档元数据属性
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-01 05:44:42
  */
 public class Keywords extends OFDElement {

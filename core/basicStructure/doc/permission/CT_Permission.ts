@@ -9,7 +9,7 @@ import org.ofdrw.core.OFDElement;
  * <p>
  * 7.5 小节 CT_Permission
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-06 08:09:21
  */
 public class CT_Permission extends OFDElement {

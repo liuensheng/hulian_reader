@@ -10,7 +10,7 @@ import org.ofdrw.core.basicType.ST_Loc;
  * <p>
  * 7.9 资源 图 21 表 19
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-13 08:03:34
  */
 public class CT_MultiMedia extends OFDElement {

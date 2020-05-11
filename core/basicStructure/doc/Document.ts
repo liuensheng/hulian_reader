@@ -16,7 +16,7 @@ import org.ofdrw.core.basicType.ST_Loc;
  * <p>
  * ————《GB/T 33190-2016》 图 5
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-04 07:43:14
  */
 public class Document extends OFDElement {

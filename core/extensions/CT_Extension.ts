@@ -14,7 +14,7 @@ import java.util.List;
  * <p>
  * 17 扩展信息 图 83 表 6
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-20 06:09:49
  */
 public class CT_Extension extends OFDElement {

@@ -17,7 +17,7 @@ import java.util.List;
  * <p>
  * 8.3.4.4 高洛德渐变  图 41 表 31
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-09 12:15:19
  */
 public class CT_GouraudShd extends OFDElement implements ColorClusterType {

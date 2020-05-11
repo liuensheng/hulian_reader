@@ -10,7 +10,7 @@ import org.ofdrw.core.basicType.ST_RefID;
  * <p>
  * 图 79 播放视频动作属性
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-06 05:51:40
  */
 public class Movie extends OFDElement implements OFDAction {

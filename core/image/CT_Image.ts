@@ -11,7 +11,7 @@ import org.ofdrw.core.pageDescription.CT_GraphicUnit;
  * <p>
  * 10 图像 图 57 表 43
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-22 06:32:35
  */
 public class CT_Image extends CT_GraphicUnit<CT_Image> {

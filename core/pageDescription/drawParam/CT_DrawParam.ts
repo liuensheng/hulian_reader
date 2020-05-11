@@ -34,7 +34,7 @@ import org.ofdrw.core.pageDescription.color.color.CT_Color;
  * <p>
  * 8.2 绘制参数结构 图 22
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-11 06:47:29
  */
 public class CT_DrawParam extends OFDElement {

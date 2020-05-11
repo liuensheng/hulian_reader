@@ -13,7 +13,7 @@ import org.ofdrw.core.pageDescription.color.color.ColorClusterType;
  * <p>
  * 8.3.3 底纹 图 26  表 28
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-12 08:14:58
  */
 public class CT_Pattern extends OFDElement implements ColorClusterType {

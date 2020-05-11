@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
  * <p>
  * 7.5 文档根节点 表 5 文档根节点属性
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-09 08:01:58
  */
 public class Bookmarks extends OFDElement {

@@ -15,7 +15,7 @@ import org.ofdrw.core.basicType.ST_RefID;
  * <p>
  * 注：在模板页的内容描述中该属性无效。
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-09 09:44:37
  */
 public class Template extends OFDElement {

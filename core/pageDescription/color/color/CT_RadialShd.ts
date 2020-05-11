@@ -24,7 +24,7 @@ import java.util.List;
  * 延伸到超出裁剪区在该轴线的投影区域为止。当 MapType 为 Direct 时，延伸区域的
  * 渲染颜色使用该方向轴点所在的段的颜色；否则，按照在轴线区域内的渲染规则进行渲染。
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-04 06:45:30
  */
 public class CT_RadialShd extends OFDElement implements ColorClusterType {

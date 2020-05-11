@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
  * <p>
  * 图 12 页树结构
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 10:39:31
  */
 public class Pages extends OFDElement {

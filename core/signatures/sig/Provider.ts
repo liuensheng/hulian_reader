@@ -8,7 +8,7 @@ import org.ofdrw.core.OFDElement;
  * <p>
  * 18.2.1 文件摘要 图 86 表 67
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-20 19:26:15
  */
 public class Provider extends OFDElement {

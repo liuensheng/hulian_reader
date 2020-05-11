@@ -13,7 +13,7 @@ import org.ofdrw.core.basicType.ST_RefID;
  * <p>
  * 18.2.3 图 88 表 69
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-21 18:39:47
  */
 public class StampAnnot extends OFDElement {

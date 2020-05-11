@@ -12,7 +12,7 @@ import org.ofdrw.core.text.text.CT_Text;
  * <p>
  * 7.7 表 16
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-29 05:13:54
  */
 public class TextObject extends CT_Text implements PageBlockType {

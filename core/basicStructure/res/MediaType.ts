@@ -5,7 +5,7 @@ package org.ofdrw.core.basicStructure.res;
  * <p>
  * 7.9 资源 图 21 表 19
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-13 07:58:38
  */
 public enum MediaType {

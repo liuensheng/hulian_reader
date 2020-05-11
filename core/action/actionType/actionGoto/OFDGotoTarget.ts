@@ -5,7 +5,7 @@ import org.dom4j.Element;
 /**
  * 用于描述Goto的目的地
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 09:05:15
  */
 public interface OFDGotoTarget extends Element {

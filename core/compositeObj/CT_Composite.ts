@@ -16,7 +16,7 @@ import org.ofdrw.core.pageDescription.CT_GraphicUnit;
  * <p>
  * 13 复合对象 图 71 表 49
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-27 04:08:12
  */
 public class CT_Composite extends CT_GraphicUnit<CT_Composite> {

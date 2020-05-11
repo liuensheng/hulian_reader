@@ -8,7 +8,7 @@ import org.ofdrw.core.OFDElement;
  * <p>
  * 表 53 跳转动作属性
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 09:10:51
  */
 public class Bookmark extends OFDElement implements OFDGotoTarget {

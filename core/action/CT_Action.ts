@@ -12,7 +12,7 @@ import java.util.List;
  * <p>
  * 图 73 动作类型结构
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 11:34:07
  */
 public class CT_Action extends OFDElement {

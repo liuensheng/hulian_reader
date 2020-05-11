@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
  * <p>
  * 19.2 标 71
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-28 07:26:09
  */
 public class FileList extends OFDElement {

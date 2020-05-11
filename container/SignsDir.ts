@@ -11,7 +11,7 @@ import java.nio.file.Path;
 /**
  * 签名容器
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2020-01-18 03:34:34
  */
 public class SignsDir extends VirtualContainer {

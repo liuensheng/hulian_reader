@@ -12,7 +12,7 @@ import java.io.Serializable;
  * <p>
  * ————《GB/T 33190-2016》 表 2 基本数据类型
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-09-28 11:05:06
  */
 public class ST_Box extends STBase implements Cloneable {

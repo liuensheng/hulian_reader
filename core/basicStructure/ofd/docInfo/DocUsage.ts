@@ -3,7 +3,7 @@ package org.ofdrw.core.basicStructure.ofd.docInfo;
 /**
  * 文档分类
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-01 05:22:41
  */
 public enum DocUsage {

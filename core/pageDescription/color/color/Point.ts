@@ -8,7 +8,7 @@ import org.ofdrw.core.OFDElement;
  * <p>
  * 8.6.4.4 表 31 附录 A.13 P125
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-09 12:28:07
  */
 public class Point extends OFDElement {

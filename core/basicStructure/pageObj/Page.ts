@@ -20,7 +20,7 @@ import java.util.List;
  * <p>
  * 7.7 图 13 页对象结构；表 12 页对象属性
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-09 09:38:35
  */
 public class Page extends OFDElement {

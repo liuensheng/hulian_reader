@@ -27,10 +27,10 @@ import java.util.function.Function;
 /**
  * OFD解析器
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2020-04-01 21:39:25
  */
-public class OFDReader implements Closeable {
+public class OFDReader {
 
     /**
      * Reader工作过程中的工作目录

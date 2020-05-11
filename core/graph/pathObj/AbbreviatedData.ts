@@ -14,7 +14,7 @@ import java.util.LinkedList;
  * <p>
  * 9.1 表 35 36
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-16 09:09:15
  */
 public class AbbreviatedData extends OFDElement implements Cloneable {

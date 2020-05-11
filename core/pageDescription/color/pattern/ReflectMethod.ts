@@ -5,7 +5,7 @@ package org.ofdrw.core.pageDescription.color.pattern;
  * <p>
  * 8.3.4 渐变 图 28
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-12 08:38:42
  */
 public enum ReflectMethod {

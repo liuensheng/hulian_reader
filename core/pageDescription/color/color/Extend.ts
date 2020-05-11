@@ -17,7 +17,7 @@ package org.ofdrw.core.pageDescription.color.color;
  *
  * 8.3.4.2 轴向渐变 图 29、30 表 29
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-31 07:39:22
  */
 public enum Extend {

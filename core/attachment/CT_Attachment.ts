@@ -13,7 +13,7 @@ import java.time.LocalDate;
  * <p>
  * 20.2 附件 图 92 表 73
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-21 19:23:15
  */
 public class CT_Attachment extends OFDElement {

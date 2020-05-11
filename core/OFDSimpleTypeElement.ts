@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 简单类型元素对象，用于承载 Text
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-01 03:22:42
  */
 public class OFDSimpleTypeElement extends OFDElement {

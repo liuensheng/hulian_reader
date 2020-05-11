@@ -11,7 +11,7 @@ import java.util.Base64;
  * <p>
  * 18.2.2 签名的范围 图 87 表 68
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-21 18:01:53
  */
 public class Reference extends OFDElement {

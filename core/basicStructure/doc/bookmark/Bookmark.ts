@@ -10,7 +10,7 @@ import org.ofdrw.core.OFDElement;
  * <p>
  * 7.5 图 11 书签结构
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-09 08:06:35
  */
 public class Bookmark extends OFDElement {

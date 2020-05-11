@@ -6,7 +6,7 @@ import org.ofdrw.core.OFDElement;
 /**
  * 用户自定义元数据，可以指定一个名称及其对应的值
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-01 07:38:27
  */
 public class CustomData extends OFDElement {

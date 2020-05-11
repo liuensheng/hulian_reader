@@ -11,7 +11,7 @@ import java.util.UUID;
 /**
  * 文档元数据信息描述
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-09-29 10:14:41
  */
 public class CT_DocInfo extends OFDElement {

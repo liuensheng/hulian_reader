@@ -10,7 +10,7 @@ import org.ofdrw.core.OFDElement;
  * <p>
  * 图 76 附件动作结构
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 09:33:45
  */
 public class GotoA extends OFDElement implements OFDAction {

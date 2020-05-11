@@ -15,7 +15,7 @@ import java.time.LocalDate;
  * <p>
  * 19.2 版本 图 90 表 71
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-28 07:14:16
  */
 public class DocVersion extends OFDElement {

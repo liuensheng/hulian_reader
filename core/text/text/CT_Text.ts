@@ -18,7 +18,7 @@ import java.util.List;
  * <p>
  * 11.2 文字对象 图 59 表 45
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-18 09:27:41
  */
 public class CT_Text extends CT_GraphicUnit<CT_Text> implements ClipAble {

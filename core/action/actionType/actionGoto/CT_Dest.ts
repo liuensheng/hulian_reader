@@ -11,7 +11,7 @@ import org.ofdrw.core.basicType.ST_RefID;
  * <p>
  * 图 75 目标区域结构
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 08:38:08
  */
 public class CT_Dest extends OFDElement implements OFDGotoTarget {

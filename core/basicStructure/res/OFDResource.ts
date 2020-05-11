@@ -8,7 +8,7 @@ import org.ofdrw.core.basicStructure.res.resources.*;
  * <p>
  * 用于代指：绘制参数、颜色空间、字形、图像、音视频等资源的都为资源类型。
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-11 06:07:07
  */
 public interface OFDResource extends Element {

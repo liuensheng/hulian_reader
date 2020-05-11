@@ -10,7 +10,7 @@ import org.ofdrw.core.OFDElement;
  * <p>
  * 17 扩展信息 图 83 表 6
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-20 06:09:35
  */
 public class Property extends OFDElement {

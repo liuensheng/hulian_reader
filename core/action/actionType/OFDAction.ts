@@ -9,7 +9,7 @@ import org.ofdrw.core.action.actionType.actionMovie.Movie;
  * <p>
  * 表 51 动作类型属性
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 08:31:15
  */
 public interface OFDAction extends Element {

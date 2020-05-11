@@ -16,7 +16,7 @@ import java.util.List;
  * <p>
  * 15.1 注释入口文件 图 80 表 60
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-16 01:58:22
  */
 public class Annotations extends OFDElement {

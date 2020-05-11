@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
  * <p>
  * 图 19 大纲节点结构
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 11:13:47
  */
 public class CT_OutlineElem extends OFDElement {

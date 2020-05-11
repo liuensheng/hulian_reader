@@ -13,7 +13,7 @@ import java.util.List;
  * <p>
  * 图 49 区域结构
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 11:51:23
  */
 public class CT_Area extends OFDElement {

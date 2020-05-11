@@ -5,7 +5,7 @@ package org.ofdrw.core.text.text;
  * <p>
  * 11.3 表 45
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-18 09:56:38
  */
 public enum Weight {

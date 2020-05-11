@@ -15,7 +15,7 @@ import java.util.stream.Collectors;
  * <p>
  * 7.7 页对象 图 17 表 16
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-10 06:39:58
  */
 public class CT_PageBlock extends OFDElement implements PageBlockType {

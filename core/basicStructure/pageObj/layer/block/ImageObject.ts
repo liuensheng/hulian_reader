@@ -15,7 +15,7 @@ import org.ofdrw.core.image.CT_Image;
  * <p>
  * 7.7 表 16
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-29 17:20:01
  */
 public class ImageObject extends CT_Image implements PageBlockType {

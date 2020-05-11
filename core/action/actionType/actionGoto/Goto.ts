@@ -12,7 +12,7 @@ import java.util.List;
  * <p>
  * 图 74 跳转动作结构
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 08:33:55
  */
 public class Goto extends OFDElement implements OFDAction  {

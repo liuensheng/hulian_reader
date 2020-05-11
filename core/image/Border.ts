@@ -10,7 +10,7 @@ import org.ofdrw.core.pageDescription.color.color.CT_Color;
  * <p>
  * 10 表 43
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-27 02:45:46
  */
 public class Border extends OFDElement {

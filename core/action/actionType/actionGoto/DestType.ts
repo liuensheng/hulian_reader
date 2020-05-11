@@ -5,7 +5,7 @@ package org.ofdrw.core.action.actionType.actionGoto;
  * <p>
  * 表 54 目标区域属性
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 08:39:59
  */
 public enum DestType {

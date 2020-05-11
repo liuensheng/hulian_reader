@@ -14,7 +14,7 @@ import java.util.List;
  * <p>
  * 7.9 图 20 表 18
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-13 19:41:17
  */
 public class Fonts extends OFDElement implements OFDResource {

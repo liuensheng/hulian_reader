@@ -7,7 +7,7 @@ package org.ofdrw.core.basicStructure.doc.vpreferences;
  * <p>
  * 默认值为 None
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-07 06:33:01
  */
 public enum PageMode {

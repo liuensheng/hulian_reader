@@ -20,7 +20,7 @@ import org.ofdrw.core.pageDescription.drawParam.LineJoinType;
  * <p>
  * 8.5 图元对象 图 45 表 34
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-14 07:32:38
  */
 public abstract class CT_GraphicUnit<T extends CT_GraphicUnit> extends OFDElement {

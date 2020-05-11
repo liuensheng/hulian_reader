@@ -13,7 +13,7 @@ import java.util.List;
  * <p>
  * 20.1 附件列表 图 91 表 72
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-21 19:21:29
  */
 public class Attachments extends OFDElement {

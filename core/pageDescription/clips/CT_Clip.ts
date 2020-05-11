@@ -18,7 +18,7 @@ import java.util.List;
  * <p>
  * 8.4 裁剪区 图 44 表 33
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-15 08:15:58
  */
 public class CT_Clip extends OFDElement {

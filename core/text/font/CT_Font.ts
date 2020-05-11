@@ -10,7 +10,7 @@ import org.ofdrw.core.basicType.ST_Loc;
  * <p>
  * 11.1 字形 图 58 表 44
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-18 08:26:16
  */
 public class CT_Font extends OFDElement {

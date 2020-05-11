@@ -5,7 +5,7 @@ package org.ofdrw.core.pageDescription.color.colorSpace;
  * <p>
  * 8.3.1 表 25 颜色空间属性
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-11 08:07:31
  */
 public enum OFDColorSpaceType {

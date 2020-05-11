@@ -8,7 +8,7 @@ import org.ofdrw.core.OFDElement;
  * <p>
  * 图 77 URI动作属性
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 09:41:15
  */
 public class URI extends OFDElement implements OFDAction {

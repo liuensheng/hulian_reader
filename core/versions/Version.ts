@@ -7,7 +7,7 @@ import org.ofdrw.core.OFDElement;
 /**
  * 表 70 版本描述入口
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-09-29 10:40:02
  */
 public class Version extends OFDElement {

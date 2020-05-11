@@ -5,7 +5,7 @@ package org.ofdrw.core.action;
  * <p>
  * 参照 52 事件类型
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 11:38:04
  */
 public enum EventType {

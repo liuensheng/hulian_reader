@@ -7,7 +7,7 @@ package org.ofdrw.core.signatures;
  *
  * 18.1 签名列表 图 85 表 66
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-20 06:59:41
  */
 public enum SigType {

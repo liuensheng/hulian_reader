@@ -9,7 +9,7 @@ import org.ofdrw.core.basicType.ST_Box;
  * <p>
  * ————《GB/T 33190-2016》 图 7
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-04 08:58:55
  */
 public class CT_PageArea extends OFDElement {

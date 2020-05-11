@@ -8,7 +8,7 @@ package org.ofdrw.core.basicStructure.doc.vpreferences;
  * <p>
  * 7.5 表 9 视图首选项
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-07 09:07:50
  */
 public enum TabDisplay {

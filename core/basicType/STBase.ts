@@ -7,7 +7,7 @@ import java.io.Serializable;
 /**
  * 简单类型基类，用于提供便捷的方法实例化元素
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-01 03:25:28
  */
 public abstract class STBase implements Serializable {

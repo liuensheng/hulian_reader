@@ -9,7 +9,7 @@ import org.ofdrw.core.basicType.ST_Loc;
  * <p>
  * 19.2 表 71
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-28 07:36:21
  */
 public class File extends OFDElement {

@@ -13,7 +13,7 @@ import org.ofdrw.core.basicType.ST_Pos;
  *    B(t) = (1-t)^3(P0) + 3t(1-t)^2(P1) + 3t^2(1-t)(P2) + t^3(P3) t∈[0,1]
  * </code>
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 05:27:50
  */
 public class CubicBezier extends Command {

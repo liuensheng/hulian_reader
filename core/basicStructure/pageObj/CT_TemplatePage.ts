@@ -11,7 +11,7 @@ import org.ofdrw.core.basicType.ST_Loc;
  * <p>
  * ————《GB/T 33190-2016》 图 14
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-04 10:37:10
  */
 public class CT_TemplatePage extends OFDElement {

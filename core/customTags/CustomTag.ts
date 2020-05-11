@@ -10,7 +10,7 @@ import org.ofdrw.core.basicType.ST_Loc;
  * <p>
  * 16 图 82 表 63
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-19 06:15:00
  */
 public class CustomTag extends OFDElement {

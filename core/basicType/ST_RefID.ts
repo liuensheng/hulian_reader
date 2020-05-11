@@ -9,7 +9,7 @@ package org.ofdrw.core.basicType;
  * <p>
  * ————《GB/T 33190-2016》 表 2 基本数据类型
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-09-28 10:52:01
  */
 public class ST_RefID extends STBase {

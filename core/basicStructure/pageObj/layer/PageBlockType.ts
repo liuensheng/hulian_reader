@@ -8,7 +8,7 @@ import org.ofdrw.core.basicStructure.pageObj.layer.block.*;
  * <p>
  * 逻辑层面表示
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-10 10:12:35
  */
 public interface PageBlockType extends Element {

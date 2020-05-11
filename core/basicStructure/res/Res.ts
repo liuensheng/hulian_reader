@@ -18,7 +18,7 @@ import java.util.List;
  * <p>
  * 7.9 资源 图 20
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-11 06:00:24
  */
 public class Res extends OFDElement {

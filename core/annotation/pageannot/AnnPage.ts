@@ -10,7 +10,7 @@ import org.ofdrw.core.basicType.ST_Loc;
  * <p>
  * 15.1 注释入口文件 图 80 表 60
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-16 02:04:53
  */
 public class AnnPage extends OFDElement {

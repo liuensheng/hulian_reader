@@ -11,7 +11,7 @@ import org.ofdrw.core.basicType.ST_RefID;
  * <p>
  * 图 78 播放音频动作结构
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 09:48:46
  */
 public class Sound extends OFDElement implements OFDAction {

@@ -9,7 +9,7 @@ import org.ofdrw.core.basicType.ST_Loc;
  * <p>
  * 18.2.1 图 86 表 67
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-21 18:54:20
  */
 public class Seal extends OFDElement {

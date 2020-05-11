@@ -15,7 +15,7 @@ import org.ofdrw.core.basicType.ST_Loc;
  * <p>
  * 8.3 颜色 图 24
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-11 08:05:25
  */
 public class CT_ColorSpace extends OFDElement {

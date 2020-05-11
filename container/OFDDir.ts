@@ -17,7 +17,7 @@ import java.nio.file.Path;
  * <p>
  * 请显示的调用Close或clean方法清除工作过程中的文件和目录
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2020-01-18 13:00:45
  */
 public class OFDDir extends VirtualContainer {

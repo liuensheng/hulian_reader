@@ -11,7 +11,7 @@ import org.ofdrw.core.pageDescription.color.pattern.CT_Pattern;
  * <p>
  * 8.3.2 图 25 颜色结构
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-11 09:38:10
  */
 public interface ColorClusterType extends Element {

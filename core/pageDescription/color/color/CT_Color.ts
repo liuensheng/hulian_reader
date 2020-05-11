@@ -23,7 +23,7 @@ import java.util.List;
  * <p>
  * 8.3.2 基本颜色 图 25 表 26
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-11 09:01:56
  */
 public class CT_Color extends OFDElement {

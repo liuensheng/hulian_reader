@@ -11,7 +11,7 @@ import org.ofdrw.core.basicType.ST_Loc;
  * 7.6 页树 表 11 页树属性
  *
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 10:49:09
  */
 public class Page extends OFDElement {

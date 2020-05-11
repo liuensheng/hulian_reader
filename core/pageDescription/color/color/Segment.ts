@@ -10,7 +10,7 @@ import org.ofdrw.core.OFDElement;
  * <p>
  * 8.3.4.2 轴向渐变 图 29、30 表 29
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-31 07:57:48
  */
 public class Segment extends OFDElement {

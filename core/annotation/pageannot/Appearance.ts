@@ -12,7 +12,7 @@ import org.ofdrw.core.basicType.ST_Box;
  * <p>
  * 15.2 图 81 表 61
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-19 05:48:28
  */
 public class Appearance extends CT_PageBlock {

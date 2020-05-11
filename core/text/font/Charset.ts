@@ -9,7 +9,7 @@ package org.ofdrw.core.text.font;
  * <p>
  * 附录 A.5 CT_Font
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-18 08:38:14
  */
 public enum Charset {

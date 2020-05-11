@@ -14,7 +14,7 @@ import org.ofdrw.core.basicType.ST_RefID;
  * 任何关联的独立的坐标空间：坐上角（0,0）为原点，X 轴向右增长，
  * Y 轴向下增长，单位为毫米。
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-12 09:07:00
  */
 public class CellContent extends CT_PageBlock {

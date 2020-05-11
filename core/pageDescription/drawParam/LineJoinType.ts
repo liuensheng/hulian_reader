@@ -7,7 +7,7 @@ package org.ofdrw.core.pageDescription.drawParam;
  * <p>
  * 线条连接样式的取值和显示效果之间的关系见表 22
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-11 07:29:38
  */
 public enum LineJoinType {

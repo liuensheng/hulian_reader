@@ -19,7 +19,7 @@ import java.util.regex.Pattern;
  * <p>
  * 通过给与的资源地址获取对应的资源文件或对象
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2020-04-08 20:05:14
  */
 public class ResourceLocator {

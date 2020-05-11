@@ -13,7 +13,7 @@ import org.ofdrw.core.pageDescription.clips.ClipAble;
  * <p>
  * 11.3 文字定位 图 61 表 46
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-21 09:28:35
  */
 public class TextCode extends OFDElement implements ClipAble {

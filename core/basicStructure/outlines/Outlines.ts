@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
  * <p>
  * 图 18 大纲节点结构
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-05 11:12:39
  */
 public class Outlines extends OFDElement implements Iterable<CT_OutlineElem> {

@@ -12,7 +12,7 @@ import org.ofdrw.core.basicType.ST_Array;
  * <p>
  * 11.4.1 变换描述 图 66 表 48
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-10-19 07:01:53
  */
 public class CT_CGTransfrom extends OFDElement {

@@ -17,7 +17,7 @@ import java.util.Map;
  * <p>
  * 15.2 图 81 表 61
  *
- * @author 权观宇
+ * @author 泰山信息科技
  * @since 2019-11-16 02:22:34
  */
 public class Annot extends OFDElement {
