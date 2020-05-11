@@ -6,6 +6,8 @@ var fs = require("fs")
 var archiver = require('archiver'); // archiver可用于普通的打包压缩
 var AdmZip = require('adm-zip');  //用于读取未解压的zip包
 
+import * as Const from '../core/const'
+
 export class OfdFileReader {
     _filePath: string = "";
     _zip = null;
@@ -50,7 +52,7 @@ export class OfdFileReader {
         const loadFileProcess = new Promise(function (resolve, reject) {
             zipEntries.forEach((item: { isDirectory: boolean; name: any; }) => {
                 if (item.isDirectory == false) {
-                    if (this.isFileType(item.name, 'xml')) {
+                    if (this.isFileType(item.name, Const.EXT_FILE)) {
                     }
                 }
             })
