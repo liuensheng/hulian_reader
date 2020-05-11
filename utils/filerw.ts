@@ -14,6 +14,16 @@ export class OfdFileReader {
 
     }
 
+    readFileText(zipFilePath:string):string {
+        if (null == this._zip) {
+            return "";
+        }
+
+        var data = this._zip.readAsText(zipFilePath,'utf8');
+
+        return data;
+    }
+
     isFileType(filename: string, types: string): boolean {
         let typess = types.split(',');
         var pattern = '\.(';
