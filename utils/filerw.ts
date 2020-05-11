@@ -24,7 +24,7 @@ export class OfdFileReader {
         return data;
     }
 
-    isFileType(filename: string, types: string): boolean {
+    private isFileType(filename: string, types: string): boolean {
         let typess = types.split(',');
         var pattern = '\.(';
         for (var i = 0; i < typess.length; i++) {
